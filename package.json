@@ -6,7 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["sequelize","database","migration","seed"],
+  "keywords": [
+    "sequelize",
+    "database",
+    "migration",
+    "seed"
+  ],
   "author": "Haidar Afif Maulana",
   "license": "MIT",
   "bin": {
