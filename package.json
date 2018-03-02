@@ -1,6 +1,6 @@
 {
   "name": "fresh_sequelize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to refresh database migrations and seeders in sequelize, inspiration from laravel migrate:fresh",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,10 @@
   "license": "MIT",
   "bin": {
     "fresh": "./index.js"
+  },
+  "repository" :{
+    "type" : "git",
+     "url" : "https://github.com/haidarafif0809/fresh_sequelize.git"
   },
   "dependencies": {
     "shelljs": "^0.8.1"
