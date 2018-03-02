@@ -1,0 +1,18 @@
+{
+  "name": "fresh_sequelize",
+  "version": "1.0.0",
+  "description": "Package to refresh database migrations and seeders in sequelize, inspiration from laravel migrate:fresh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["sequelize","database","migration","seed"],
+  "author": "Haidar Afif Maulana",
+  "license": "MIT",
+  "bin": {
+    "fresh": "./index.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.1"
+  }
+}
